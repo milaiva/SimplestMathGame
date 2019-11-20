@@ -1,0 +1,9 @@
+C:\Repos\SimplestMathGame\bin\Debug\SimplestMathGame.exe.config
+C:\Repos\SimplestMathGame\bin\Debug\SimplestMathGame.exe
+C:\Repos\SimplestMathGame\bin\Debug\SimplestMathGame.pdb
+C:\Repos\SimplestMathGame\obj\Debug\SimplestMathGame.csprojAssemblyReference.cache
+C:\Repos\SimplestMathGame\obj\Debug\SimplestMathGame.Form1.resources
+C:\Repos\SimplestMathGame\obj\Debug\SimplestMathGame.Properties.Resources.resources
+C:\Repos\SimplestMathGame\obj\Debug\SimplestMathGame.csproj.GenerateResource.cache
+C:\Repos\SimplestMathGame\obj\Debug\SimplestMathGame.exe
+C:\Repos\SimplestMathGame\obj\Debug\SimplestMathGame.pdb
